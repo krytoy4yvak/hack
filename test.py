@@ -16,4 +16,4 @@ def input_one(input = None):
 
 
 if __name__ == '__main__':
-    print(input_one(sys.argv))
+    input_one(sys.argv)
