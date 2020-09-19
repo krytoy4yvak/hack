@@ -1,0 +1,1604 @@
+1	Подготовка	подготовка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	к	к	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	открытию	открытие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1	nmod	_	NE=QQQQQQQ
+5	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Встреча	встреча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	и	и	CCONJ	_	_	3	cc	_	NE=QQQQQQQ
+3	обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+4	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	NE=QQQQQQQ
+5	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+6	Консультирование	Консультирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+7	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	NE=QQQQQQQ
+8	об	о	ADP	_	_	9	case	_	NE=QQQQQQQ
+9	особенностях	особенность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	6	nmod	_	NE=QQQQQQQ
+10	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	NE=QQQQQQQ
+11	и	и	CCONJ	_	_	12	cc	_	NE=QQQQQQQ
+12	напитков	напиток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	conj	_	NE=QQQQQQQ
+13	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Сервировка	Сервировка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	столов	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+4	Контроль	Контроль	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	NE=QQQQQQQ
+5	качества	качество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	NE=QQQQQQQ
+6	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Контроль	контроль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	NE=QQQQQQQ
+2	чистоты	чистота	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	в	в	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	зале	зал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+5	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	конфликтных	конфликтный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	NE=QQQQQQQ
+3	ситуаций	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	NE=QQQQQQQ
+4	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Составление	составление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	графиков	график	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	и	и	CCONJ	_	_	4	cc	_	NE=QQQQQQQ
+4	расписания	расписание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	conj	_	NE=QQQQQQQ
+5	для	для	ADP	_	_	6	case	_	NE=QQQQQQQ
+6	официантов	официант	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	NE=QQQQQQQ
+7	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Контроль	контроль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	NE=QQQQQQQ
+2	выдачи	выдача	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	заказа	заказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	NE=QQQQQQQ
+4	и	и	CCONJ	_	_	5	cc	_	NE=QQQQQQQ
+5	скорости	скорость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	conj	_	NE=QQQQQQQ
+6	обслуживания	обслуживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	NE=QQQQQQQ
+7	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Контроль	контроль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	NE=QQQQQQQ
+2	качества	качество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	обслуживания	обслуживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	NE=QQQQQQQ
+4	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	NE=QQQQQQQ
+5	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Формирование	формирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	зон	зона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	NE=QQQQQQQ
+4	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Контроль	контроль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	NE=QQQQQQQ
+2	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	персонала	персонал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	NE=QQQQQQQ
+4	на	на	ADP	_	_	5	case	_	NE=QQQQQQQ
+5	смене	смена	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	nmod	_	NE=QQQQQQQ
+6	Проведение	проведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	appos	_	NE=QQQQQQQ
+7	тренинговсобраний	тренинговсобрание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	NE=QQQQQQQ
+8	.	.	PUNCT	_	_	7	punct	_
+9	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Подготовка	подготовка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	к	к	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	открытию	открытие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1	nmod	_	NE=QQQQQQQ
+5	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Подготовка	подготовка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	к	к	ADP	_	_	3	case	_	NE=QQQQQQQ
+3	фуршетам	фуршет	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+4	,	,	PUNCT	_	_	5	punct	_	NE=QQQQQQQ
+5	банкетам	банкет	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	3	conj	_	NE=QQQQQQQ
+6	Встреча	встреча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	NE=QQQQQQQ
+7	и	и	CCONJ	_	_	8	cc	_	NE=QQQQQQQ
+8	обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	conj	_	NE=QQQQQQQ
+9	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	NE=QQQQQQQ
+10	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	банкетов	банкет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	,	,	PUNCT	_	_	5	punct	_	NE=QQQQQQQ
+4	туристических	туристический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	NE=QQQQQQQ
+5	групп	группа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	conj	_	NE=QQQQQQQ
+6	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Консультирование	Консультирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	об	о	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	особенностях	особенность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	1	nmod	_	NE=QQQQQQQ
+5	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	NE=QQQQQQQ
+6	и	и	CCONJ	_	_	7	cc	_	NE=QQQQQQQ
+7	напитков	напиток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	conj	_	NE=QQQQQQQ
+8	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+9	Сервировка	Сервировка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+10	столов	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	NE=QQQQQQQ
+11	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+12	Контроль	Контроль	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	NE=QQQQQQQ
+13	качества	качество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	NE=QQQQQQQ
+14	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Контроль	контроль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	NE=QQQQQQQ
+2	чистоты	чистота	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	в	в	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	зале	зал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+5	.	.	PUNCT	_	_	4	punct	_
+6	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Подготовка	подготовка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	к	к	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	открытию	открытие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1	nmod	_	NE=QQQQQQQ
+5	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Встреча	встреча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	и	и	CCONJ	_	_	3	cc	_	NE=QQQQQQQ
+3	обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+4	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	NE=QQQQQQQ
+5	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+6	Консультирование	Консультирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+7	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	NE=QQQQQQQ
+8	об	о	ADP	_	_	9	case	_	NE=QQQQQQQ
+9	особенностях	особенность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	6	nmod	_	NE=QQQQQQQ
+10	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	NE=QQQQQQQ
+11	и	и	CCONJ	_	_	12	cc	_	NE=QQQQQQQ
+12	напитков	напиток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	conj	_	NE=QQQQQQQ
+13	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Сервировка	Сервировка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	столов	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+4	Контроль	Контроль	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	NE=QQQQQQQ
+5	качества	качество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	NE=QQQQQQQ
+6	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Контроль	контроль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	NE=QQQQQQQ
+2	чистоты	чистота	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	в	в	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	зале	зал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+5	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	конфликтных	конфликтный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	NE=QQQQQQQ
+3	ситуаций	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	NE=QQQQQQQ
+4	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	с	с	ADP	_	_	3	case	_	NE=QQQQQQQ
+3	системой	система	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	nmod	_	NE=QQQQQQQ
+4	Tillypad	Tillypad	PROPN	_	Foreign=Yes	3	flat:foreign	_	NE=QQQQQQQ
+5	.	.	PUNCT	_	_	3	punct	_
+6	.	.	PUNCT	_	_	1	punct	_
+
+
+1	обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	NE=QQQQQQQ
+4	во	во	ADP	_	_	6	case	_	NE=QQQQQQQ
+5	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	fixed	_	NE=QQQQQQQ
+6	завтрака	завтрак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	NE=QQQQQQQ
+7	,	,	PUNCT	_	_	8	punct	_	NE=QQQQQQQ
+8	прием	прием	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	conj	_	NE=QQQQQQQ
+9	заказов	заказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	NE=QQQQQQQ
+10	,	,	PUNCT	_	_	11	punct	_	NE=QQQQQQQ
+11	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+12	в	в	ADP	_	_	14	case	_	NE=QQQQQQQ
+13	вечернее	вечерний	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	NE=QQQQQQQ
+14	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	nmod	_	NE=QQQQQQQ
+15	с	с	ADP	_	_	16	case	_	NE=QQQQQQQ
+16	клиентами	клиент	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	11	nmod	_	NE=QQQQQQQ
+17	по	по	ADP	_	_	18	case	_	NE=QQQQQQQ
+18	системе	система	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	16	nmod	_	NE=QQQQQQQ
+19	a	a	X	_	Foreign=Yes	18	flat:foreign	_	NE=QQQQQQQ
+20	la	la	X	_	Foreign=Yes	18	flat:foreign	_	NE=QQQQQQQ
+21	carte	carte	X	_	Foreign=Yes	18	flat:foreign	_	NE=QQQQQQQ
+22	,	,	PUNCT	_	_	23	punct	_	NE=QQQQQQQ
+23	сотрудничество	сотрудничество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+24	с	с	ADP	_	_	25	case	_	NE=QQQQQQQ
+25	отделом	отдел	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	23	nmod	_	NE=QQQQQQQ
+26	продаж	продажа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	25	nmod	_	NE=QQQQQQQ
+27	,	,	PUNCT	_	_	29	punct	_
+28	со	с	ADP	_	_	29	case	_
+29	службами	служба	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	25	conj	_
+30	гостиничного	гостиничный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	31	amod	_
+31	хозяйства	хозяйство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	nmod	_
+32	,	,	PUNCT	_	_	33	punct	_
+33	приема	прием	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	conj	_
+34	и	и	CCONJ	_	_	35	cc	_
+35	размещения	размещение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	conj	_
+36	,	,	PUNCT	_	_	37	punct	_
+37	охраны	охрана	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	conj	_
+38	.	.	PUNCT	_	_	37	punct	_
+39	.	.	PUNCT	_	_	1	punct	_
+
+
+1	-	-	PUNCT	_	_	6	punct	_
+2	Консультация	консультация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	NE=QQQQQQQ
+3	посетителей	посетитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	NE=QQQQQQQ
+4	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	NE=QQQQQQQ
+5	-	-	PUNCT	_	_	2	punct	_
+6	Уборка	уборка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+7	столов	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	NE=QQQQQQQ
+8	после	после	ADP	_	_	9	case	_	NE=QQQQQQQ
+9	закрытия	закрытие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	NE=QQQQQQQ
+10	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	NE=QQQQQQQ
+11	-	-	PUNCT	_	_	12	punct	_
+12	Расчет	расчет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	compound	_	NE=QQQQQQQ
+13	посетитей	посетить	ADJ	_	Degree=Cmp	6	obl	_	NE=QQQQQQQ
+14	.	.	PUNCT	_	_	6	punct	_
+
+
+1	Создание	создание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	непринужденной	непринужденный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	NE=QQQQQQQ
+3	,	,	PUNCT	_	_	4	punct	_	NE=QQQQQQQ
+4	свободной	свободный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	2	conj	_	NE=QQQQQQQ
+5	обстановки	обстановка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	NE=QQQQQQQ
+6	,	,	PUNCT	_	_	12	punct	_
+7	в	в	ADP	_	_	8	case	_
+8	которой	который	PRON	_	Case=Loc	12	obl	_
+9	каждый	каждый	DET	_	Case=Nom|Gender=Masc|Number=Sing	10	det	_
+10	посетитель	посетитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_
+11	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_
+12	чувствовал	чувствовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_
+13	бы	бы	AUX	_	_	12	aux	_
+14	себя	себя	PRON	_	Case=Acc	12	obj	_
+15	желанным	желать	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	amod	_
+16	гостем	гость	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	12	obl	_
+17	.	.	PUNCT	_	_	1	punct	_
+1	Уметь	уметь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	NE=QQQQQQQ
+2	красиво	красиво	ADV	_	Degree=Pos	3	advmod	_	NE=QQQQQQQ
+3	обслужить	обслужить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	_	NE=QQQQQQQ
+4	и	и	CCONJ	_	_	5	cc	_	NE=QQQQQQQ
+5	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	conj	_	NE=QQQQQQQ
+6	подход	подход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	NE=QQQQQQQ
+7	к	к	ADP	_	_	9	case	_	NE=QQQQQQQ
+8	каждому	каждый	DET	_	Case=Dat|Gender=Masc|Number=Sing	9	det	_	NE=QQQQQQQ
+9	гостю	гость	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	6	nmod	_	NE=QQQQQQQ
+10	и	и	CCONJ	_	_	11	cc	_	NE=QQQQQQQ
+11	создать	создать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	conj	_	NE=QQQQQQQ
+12	с	с	ADP	_	_	13	case	_	NE=QQQQQQQ
+13	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3	11	obl	_	NE=QQQQQQQ
+14	контакт	контакт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	NE=QQQQQQQ
+15	.	.	PUNCT	_	_	1	punct	_
+1	Консультирование	Консультирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	NE=QQQQQQQ
+4	об	о	ADP	_	_	5	case	_	NE=QQQQQQQ
+5	особенностях	особенность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	3	nmod	_	NE=QQQQQQQ
+6	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	NE=QQQQQQQ
+7	и	и	CCONJ	_	_	8	cc	_	NE=QQQQQQQ
+8	напитков	напиток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	conj	_	NE=QQQQQQQ
+9	.	.	PUNCT	_	_	1	punct	_
+1	Оказание	оказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	при	при	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	составление	составление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	nmod	_	NE=QQQQQQQ
+5	заказа	заказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	NE=QQQQQQQ
+6	.	.	PUNCT	_	_	1	punct	_
+1	Принятие	принятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	мер	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	по	по	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	разрешению	разрешение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	nmod	_	NE=QQQQQQQ
+5	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	NE=QQQQQQQ
+6	,	,	PUNCT	_	_	7	punct	_	NE=QQQQQQQ
+7	возникших	возникнуть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	NE=QQQQQQQ
+8	у	у	ADP	_	_	9	case	_	NE=QQQQQQQ
+9	клиента	клиент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	NE=QQQQQQQ
+10	,	,	PUNCT	_	_	7	punct	_	NE=QQQQQQQ
+11	в	в	ADP	_	_	12	case	_	NE=QQQQQQQ
+12	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	2	nmod	_	NE=QQQQQQQ
+13	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing	14	det	_	NE=QQQQQQQ
+14	компетенции	компетенция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	NE=QQQQQQQ
+15	.	.	PUNCT	_	_	1	punct	_
+1	Распределение	распределение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	заказов	заказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	по	по	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	месту	место	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1	nmod	_	NE=QQQQQQQ
+5	их	их	PRON	_	Case=Gen|Number=Plur|Person=3	6	nmod	_	NE=QQQQQQQ
+6	выполнения	выполнений	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	NE=QQQQQQQ
+7	между	между	ADP	_	_	8	case	_	NE=QQQQQQQ
+8	барменом	бармен	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	nmod	_	NE=QQQQQQQ
+9	и	и	CCONJ	_	_	10	cc	_	NE=QQQQQQQ
+10	поваром	повар	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	conj	_	NE=QQQQQQQ
+11	.	.	PUNCT	_	_	1	punct	_
+1	Контроль	контроль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	NE=QQQQQQQ
+2	своевременного	своевременный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	NE=QQQQQQQ
+3	приготовления	приготовление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	NE=QQQQQQQ
+4	и	и	CCONJ	_	_	5	cc	_	NE=QQQQQQQ
+5	наличие	наличие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+6	товарного	товарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	NE=QQQQQQQ
+7	вида	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	NE=QQQQQQQ
+8	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	NE=QQQQQQQ
+9	,	,	PUNCT	_	_	11	punct	_	NE=QQQQQQQ
+10	при	при	ADP	_	_	11	case	_	NE=QQQQQQQ
+11	подачи	подача	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+12	на	на	ADP	_	_	13	case	_	NE=QQQQQQQ
+13	стол	стол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	nmod	_	NE=QQQQQQQ
+14	.	.	PUNCT	_	_	1	punct	_
+1	Осуществление	осуществление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	руководства	руководство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	над	над	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	помощником	помощник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	2	nmod	_	NE=QQQQQQQ
+5	официанта	официант	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	NE=QQQQQQQ
+6	.	.	PUNCT	_	_	1	punct	_
+1	Оформление	оформление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	зала	зал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	и	и	CCONJ	_	_	4	cc	_	NE=QQQQQQQ
+4	сервировка	сервировка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+5	столов	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	NE=QQQQQQQ
+6	для	для	ADP	_	_	8	case	_	NE=QQQQQQQ
+7	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	NE=QQQQQQQ
+8	мероприятий	мероприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	NE=QQQQQQQ
+9	.	.	PUNCT	_	_	1	punct	_
+1	Приготовление	приготовление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	напитков	напиток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	.	.	PUNCT	_	_	2	punct	_
+4	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Организация	организация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	NE=QQQQQQQ
+4	.	.	PUNCT	_	_	1	punct	_
+1	Обучения	обучение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	персонала	персонал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	стандартам	стандарт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	1	iobj	_	NE=QQQQQQQ
+4	обслуживания	обслуживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	NE=QQQQQQQ
+5	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	NE=QQQQQQQ
+6	.	.	PUNCT	_	_	1	punct	_
+1	Составления	составление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	NE=QQQQQQQ
+2	графика	график	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	NE=QQQQQQQ
+4	,	,	PUNCT	_	_	5	punct	_	NE=QQQQQQQ
+5	обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+6	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	NE=QQQQQQQ
+7	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	NE=QQQQQQQ
+8	,	,	PUNCT	_	_	9	punct	_	NE=QQQQQQQ
+9	сервировка	сервировка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+10	и	и	CCONJ	_	_	11	cc	_	NE=QQQQQQQ
+11	обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+12	банкетов	банкет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	NE=QQQQQQQ
+13	и	и	CCONJ	_	_	14	cc	_	NE=QQQQQQQ
+14	фуршетов	фуршет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	conj	_	NE=QQQQQQQ
+15	.	.	PUNCT	_	_	1	punct	_
+1	Набор	набор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_
+2	персонала	персонал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_
+3	.	.	PUNCT	_	_	2	punct	_
+4	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Встреча	встреча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	и	и	CCONJ	_	_	3	cc	_	NE=QQQQQQQ
+3	приветствие	приветствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+4	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	NE=QQQQQQQ
+5	Обслуживание	обслуживание	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	appos	_	NE=QQQQQQQ
+6	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	NE=QQQQQQQ
+7	кофейни	кофейня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	NE=QQQQQQQ
+8	Консультирование	Консультирование	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	appos	_	NE=QQQQQQQ
+9	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	NE=QQQQQQQ
+10	по	по	ADP	_	_	11	case	_	NE=QQQQQQQ
+11	ассортименту	ассортимент	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	nmod	_	NE=QQQQQQQ
+12	кофейни	кофейня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	NE=QQQQQQQ
+13	Контроль	Контроль	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	appos	_	NE=QQQQQQQ
+14	чистоты	чистота	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	NE=QQQQQQQ
+15	кофейни	кофейня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	NE=QQQQQQQ
+16	:	:	PUNCT	_	_	15	punct	_
+17	поддержание	поддержание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	parataxis	_	NE=QQQQQQQ
+18	порядка	порядок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	NE=QQQQQQQ
+19	в	в	ADP	_	_	20	case	_	NE=QQQQQQQ
+20	зале	зал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	nmod	_	NE=QQQQQQQ
+21	,	,	PUNCT	_	_	23	punct	_	NE=QQQQQQQ
+22	подсобных	подсобный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	23	amod	_	NE=QQQQQQQ
+23	помещениях	помещение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	20	conj	_	NE=QQQQQQQ
+24	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	на	на	ADP	_	_	3	case	_	NE=QQQQQQQ
+3	кассе	касса	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	NE=QQQQQQQ
+4	,	,	PUNCT	_	_	5	punct	_	NE=QQQQQQQ
+5	проведение	проведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+6	инвентаризации	инвентаризация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	NE=QQQQQQQ
+7	,	,	PUNCT	_	_	9	punct	_	NE=QQQQQQQ
+8	своевременное	своевременный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	NE=QQQQQQQ
+9	принятие	принятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+10	заказа	заказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	NE=QQQQQQQ
+11	и	и	CCONJ	_	_	12	cc	_	NE=QQQQQQQ
+12	выдача	выдача	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+13	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	NE=QQQQQQQ
+14	,	,	PUNCT	_	_	15	punct	_	NE=QQQQQQQ
+15	создание	создание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+16	благоприятной	благоприятный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	NE=QQQQQQQ
+17	и	и	CCONJ	_	_	18	cc	_	NE=QQQQQQQ
+18	дружелюбной	дружелюбный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	conj	_	NE=QQQQQQQ
+19	атмосферы	атмосфера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	NE=QQQQQQQ
+20	в	в	ADP	_	_	21	case	_	NE=QQQQQQQ
+21	кофейне	кофейна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	nmod	_	NE=QQQQQQQ
+22	.	.	PUNCT	_	_	1	punct	_
+23	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Открытие	открытие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	зала	зал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	,	,	PUNCT	_	_	4	punct	_	NE=QQQQQQQ
+4	подготовка	подготовка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+5	заведения	заведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	NE=QQQQQQQ
+6	к	к	ADP	_	_	7	case	_	NE=QQQQQQQ
+7	приему	прием	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	nmod	_	NE=QQQQQQQ
+8	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	NE=QQQQQQQ
+9	.	.	PUNCT	_	_	1	punct	_
+1	-	-	PUNCT	_	_	2	punct	_
+2	Работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+3	на	на	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	завтраках	завтрак	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	2	nmod	_	NE=QQQQQQQ
+5	ввиде	ввиде	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	NE=QQQQQQQ
+6	Шведского	шведский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	NE=QQQQQQQ
+7	стола	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	NE=QQQQQQQ
+8	-	-	PUNCT	_	_	13	punct	_
+9	Работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	NE=QQQQQQQ
+10	на	на	ADP	_	_	11	case	_	NE=QQQQQQQ
+11	ланчах	ланча	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	9	nmod	_	NE=QQQQQQQ
+12	-	-	PUNCT	_	_	9	punct	_
+13	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	parataxis	_	NE=QQQQQQQ
+14	банкетов	банкет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	NE=QQQQQQQ
+15	;	;	PUNCT	_	_	13	punct	_	NE=QQQQQQQ
+16	-	-	PUNCT	_	_	17	punct	_
+17	Работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	appos	_	NE=QQQQQQQ
+18	на	на	ADP	_	_	19	case	_	NE=QQQQQQQ
+19	концертах	концерт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	17	nmod	_	NE=QQQQQQQ
+20	и	и	CCONJ	_	_	22	cc	_	NE=QQQQQQQ
+21	различных	различный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	22	amod	_	NE=QQQQQQQ
+22	вечеринках	вечеринка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	19	conj	_	NE=QQQQQQQ
+23	;	;	PUNCT	_	_	2	punct	_	NE=QQQQQQQ
+1	-	-	PUNCT	_	_	2	punct	_
+2	Помощь	помощь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+3	бармену	бармен	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	NE=QQQQQQQ
+4	в	в	ADP	_	_	5	case	_	NE=QQQQQQQ
+5	приготовлении	приготовление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	nmod	_	NE=QQQQQQQ
+6	коктейлей	коктейль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	NE=QQQQQQQ
+7	;	;	PUNCT	_	_	2	punct	_	NE=QQQQQQQ
+1	-	-	PUNCT	_	_	10	punct	_
+2	Соблюдение	соблюдение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	NE=QQQQQQQ
+3	всех	весь	DET	_	Case=Gen|Number=Plur	5	det	_	NE=QQQQQQQ
+4	внутренних	внутренний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	NE=QQQQQQQ
+5	стандартов	стандарт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	NE=QQQQQQQ
+6	сервиса	сервис	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	NE=QQQQQQQ
+7	,а	,а	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	NE=QQQQQQQ
+8	так	так	ADV	_	Degree=Pos	10	obl	_	NE=QQQQQQQ
+9	же	же	PART	_	_	8	advmod	_	NE=QQQQQQQ
+10	знание	знание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+11	9	9	NUM	_	_	12	nummod	_
+12	шагов	шаг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	NE=QQQQQQQ
+13	обслуживания	обслуживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	NE=QQQQQQQ
+14	.	.	PUNCT	_	_	10	punct	_
+1	-Закрытие	-Закрытие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	зала	зал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Так	так	ADV	_	Degree=Pos	5	mark	_
+2	как	как	SCONJ	_	_	1	fixed	_
+3	интерьер	интерьер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_
+4	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_
+5	напоминал	напоминать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	advcl	_
+6	коммунальную	коммунальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_
+7	квартиру	квартира	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_
+8	,	,	PUNCT	_	_	5	punct	_
+9	то	то	SCONJ	_	_	15	mark	_
+10	и	и	PART	_	_	11	advmod	_
+11	открытие	открытие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_
+12	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	cop	_
+13	довольно	довольный	ADV	_	Degree=Pos	15	obl	_
+14	и	и	CCONJ	_	_	15	cc	_
+15	кропотливым	кропотливый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	0	root	_
+16	:	:	PUNCT	_	_	15	punct	_
+17	перестилание	перестилание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	nsubj	_	NE=QQQQQQQ
+18	диванов	диван	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	NE=QQQQQQQ
+19	,	,	PUNCT	_	_	20	punct	_	NE=QQQQQQQ
+20	подушек	подушка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	conj	_	NE=QQQQQQQ
+21	,	,	PUNCT	_	_	22	punct	_	NE=QQQQQQQ
+22	натирание	натирание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	conj	_	NE=QQQQQQQ
+23	зеркал	зеркал	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	parataxis	_	NE=QQQQQQQ
+24	и	и	CCONJ	_	_	25	cc	_
+25	т.	так	ADV	_	Degree=Pos	23	conj	_
+26	д	далее	ADV	_	Degree=Pos	25	fixed	_
+27	.	.	PUNCT	_	_	15	punct	_
+1	и	и	CCONJ	_	_	2	cc	_
+2	т.п	т.п	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_
+3	.	.	PUNCT	_	_	2	punct	_
+1	-	-	PUNCT	_	_	2	punct	_
+2	Встреча	встреча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+3	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	NE=QQQQQQQ
+4	и	и	CCONJ	_	_	5	cc	_	NE=QQQQQQQ
+5	помощь	помощь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	NE=QQQQQQQ
+6	в	в	ADP	_	_	7	case	_	NE=QQQQQQQ
+7	выборе	выбор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	NE=QQQQQQQ
+8	понравившегося	понравиться	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	10	acl	_	NE=QQQQQQQ
+9	им	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3	8	obl	_	NE=QQQQQQQ
+10	стола	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	NE=QQQQQQQ
+11	;	;	PUNCT	_	_	2	punct	_	NE=QQQQQQQ
+1	-	-	PUNCT	_	_	2	punct	_
+2	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+3	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	NE=QQQQQQQ
+4	согласно	согласно	ADP	_	_	7	case	_	NE=QQQQQQQ
+5	всем	весь	DET	_	Case=Dat|Number=Plur	7	det	_	NE=QQQQQQQ
+6	принятым	принятый	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	7	amod	_	NE=QQQQQQQ
+7	стандартам	стандарт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	2	nmod	_	NE=QQQQQQQ
+8	обслуживания	обслуживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	NE=QQQQQQQ
+9	;	;	PUNCT	_	_	7	punct	_	NE=QQQQQQQ
+10	-	-	PUNCT	_	_	11	punct	_
+11	Консультация	консультация	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	parataxis	_	NE=QQQQQQQ
+12	по	по	ADP	_	_	13	case	_	NE=QQQQQQQ
+13	меню	меню	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	nmod	_	NE=QQQQQQQ
+14	;	;	PUNCT	_	_	2	punct	_	NE=QQQQQQQ
+1	-	-	PUNCT	_	_	2	punct	_
+2	Собирание	Собирание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+3	и	и	CCONJ	_	_	4	cc	_	NE=QQQQQQQ
+4	раскуривание	раскуривание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	conj	_	NE=QQQQQQQ
+5	кальянов	кальян	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	NE=QQQQQQQ
+6	;	;	PUNCT	_	_	2	punct	_
+1	-	-	PUNCT	_	_	2	punct	_
+2	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+3	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	NE=QQQQQQQ
+4	на	на	ADP	_	_	5	case	_	NE=QQQQQQQ
+5	Квартирниках	Квартирники	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	2	nmod	_	NE=QQQQQQQ
+6	и	и	CCONJ	_	_	7	cc	_	NE=QQQQQQQ
+7	банкетах	банкет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	conj	_	NE=QQQQQQQ
+8	;	;	PUNCT	_	_	2	punct	_	NE=QQQQQQQ
+9	-	-	PUNCT	_	_	10	punct	_
+10	Выполнение	выполнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	conj	_	NE=QQQQQQQ
+11	дополнительных	дополнительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	NE=QQQQQQQ
+12	обязанностей	обязанность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	NE=QQQQQQQ
+13	на	на	ADP	_	_	14	case	_	NE=QQQQQQQ
+14	смене	смена	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	nmod	_	NE=QQQQQQQ
+15	натирание	натирание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	appos	_	NE=QQQQQQQ
+16	посуды	посуда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	NE=QQQQQQQ
+17	и	и	CCONJ	_	_	19	cc	_	NE=QQQQQQQ
+18	столовых	столовый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	NE=QQQQQQQ
+19	приборов	прибор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	conj	_	NE=QQQQQQQ
+20	и	и	CCONJ	_	_	21	cc	_
+21	т.	так	ADV	_	Degree=Pos	15	conj	_
+22	д	далее	ADV	_	Degree=Pos	21	fixed	_
+23	.	.	PUNCT	_	_	2	punct	_
+1	Закрытие	закрытие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	.	.	PUNCT	_	_	2	punct	_
+4	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Прием	прием	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	NE=QQQQQQQ
+2	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	,	,	PUNCT	_	_	4	punct	_	NE=QQQQQQQ
+4	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+5	с	с	ADP	_	_	6	case	_	NE=QQQQQQQ
+6	персоналом	персонал	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	nmod	_	NE=QQQQQQQ
+7	,	,	PUNCT	_	_	8	punct	_	NE=QQQQQQQ
+8	организация	организация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+9	банкетов	банкет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	NE=QQQQQQQ
+10	,	,	PUNCT	_	_	11	punct	_	NE=QQQQQQQ
+11	фуршетов	фуршет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	conj	_	NE=QQQQQQQ
+12	,	,	PUNCT	_	_	13	punct	_	NE=QQQQQQQ
+13	решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+14	конфликтный	конфликтный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	NE=QQQQQQQ
+15	ситуаций	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	NE=QQQQQQQ
+16	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Прием	прием	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	NE=QQQQQQQ
+2	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	,	,	PUNCT	_	_	4	punct	_	NE=QQQQQQQ
+4	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+5	с	с	ADP	_	_	7	case	_	NE=QQQQQQQ
+6	иностранными	иностранный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	amod	_	NE=QQQQQQQ
+7	посетителями	посетитель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	4	nmod	_	NE=QQQQQQQ
+8	,	,	PUNCT	_	_	9	punct	_	NE=QQQQQQQ
+9	обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+10	банкетов	банкет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	NE=QQQQQQQ
+11	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Открытиезакрытие	Открытиезакрытие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	NE=QQQQQQQ
+2	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	Контроль	Контроль	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	appos	_	NE=QQQQQQQ
+4	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	NE=QQQQQQQ
+5	персонала	персонал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	NE=QQQQQQQ
+6	бармены	бармен	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	NE=q_one
+7	,	,	PUNCT	_	_	8	punct	_
+8	официанты	официант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	conj	_	NE=q_one
+9	,	,	PUNCT	_	_	10	punct	_
+10	тех	тот	DET	_	Case=Gen|Number=Plur	3	det	_
+11	.персонал	.персонал	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_
+12	Организация	организация	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	obj	_	NE=QQQQQQQ
+13	банкетов	банкет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	NE=QQQQQQQ
+14	Разрешение	разрешение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	nmod	_	NE=QQQQQQQ
+15	конфликтных	конфликтный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	NE=QQQQQQQ
+16	ситуаций	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	NE=QQQQQQQ
+17	с	с	ADP	_	_	18	case	_	NE=QQQQQQQ
+18	гостями	гость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	16	nmod	_	NE=QQQQQQQ
+19	Обучение	обучение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	nmod	_	NE=QQQQQQQ
+20	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	NE=QQQQQQQ
+21	персонала	персонал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	NE=QQQQQQQ
+22	Заполнение	заполнение	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	appos	_	NE=QQQQQQQ
+23	отчётностей	отчётность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	22	nmod	_	NE=QQQQQQQ
+24	.	.	PUNCT	_	_	11	punct	_
+
+
+1	Организация	организация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	смены	смена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	NE=QQQQQQQ
+4	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+5	Взаимодействие	взаимодействие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	parataxis	_	NE=QQQQQQQ
+6	с	с	ADP	_	_	7	case	_	NE=QQQQQQQ
+7	поставщиками	поставщик	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	5	nmod	_	NE=QQQQQQQ
+8	,	,	PUNCT	_	_	9	punct	_	NE=QQQQQQQ
+9	планирование	планирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	conj	_	NE=QQQQQQQ
+10	заказа	заказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	NE=QQQQQQQ
+11	на	на	ADP	_	_	12	case	_	NE=QQQQQQQ
+12	продукты	продукт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	nmod	_	NE=QQQQQQQ
+13	,	,	PUNCT	_	_	14	punct	_	NE=QQQQQQQ
+14	контроль	контроль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	NE=QQQQQQQ
+15	сроков	срок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	NE=QQQQQQQ
+16	,	,	PUNCT	_	_	17	punct	_	NE=QQQQQQQ
+17	ассортимента	ассортимент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	conj	_	NE=QQQQQQQ
+18	,	,	PUNCT	_	_	19	punct	_	NE=QQQQQQQ
+19	количества	количество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	conj	_	NE=QQQQQQQ
+20	и	и	CCONJ	_	_	21	cc	_	NE=QQQQQQQ
+21	качества	качество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	conj	_	NE=QQQQQQQ
+22	доставки	доставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	NE=QQQQQQQ
+23	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	условий	условие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	для	для	ADP	_	_	5	case	_	NE=QQQQQQQ
+4	качественного	качественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	NE=QQQQQQQ
+5	обслуживания	обслуживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	NE=QQQQQQQ
+6	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	NE=QQQQQQQ
+7	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	NE=QQQQQQQ
+8	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Участие	участие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	в	в	ADP	_	_	3	case	_	NE=QQQQQQQ
+3	подборе	подбор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+4	,	,	PUNCT	_	_	5	punct	_	NE=QQQQQQQ
+5	обучении	обучение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	conj	_	NE=QQQQQQQ
+6	и	и	CCONJ	_	_	7	cc	_	NE=QQQQQQQ
+7	адаптации	адаптация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	conj	_	NE=QQQQQQQ
+8	персонала	персонасть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	NE=QQQQQQQ
+9	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+10	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Составление	составление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	еженедельного	еженедельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	NE=QQQQQQQ
+3	графика	график	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+4	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	NE=QQQQQQQ
+5	сотрудников	сотрудник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	NE=QQQQQQQ
+6	,	,	PUNCT	_	_	7	punct	_	NE=QQQQQQQ
+7	ведение	ведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+8	табеля	табель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	NE=QQQQQQQ
+9	учета	учет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	NE=QQQQQQQ
+10	рабочего	рабочий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	NE=QQQQQQQ
+11	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	NE=QQQQQQQ
+12	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Распределение	распределение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	обязанностей	обязанность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	между	между	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	сотрудниками	сотрудник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	2	nmod	_	NE=QQQQQQQ
+5	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	NE=QQQQQQQ
+6	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	соблюдения	соблюдение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	персоналом	персонал	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	nmod	_	NE=QQQQQQQ
+4	корпоративных	корпоративный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	NE=QQQQQQQ
+5	стандартов	стандарт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	NE=QQQQQQQ
+6	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Рассмотрение	рассмотрение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	претензий	претензия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	NE=QQQQQQQ
+4	ресторана	ресторан	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	NE=QQQQQQQ
+5	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Организация	организация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	и	и	CCONJ	_	_	4	cc	_	NE=QQQQQQQ
+3	непосредственное	непосредственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	NE=QQQQQQQ
+4	участие	участие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+5	в	в	ADP	_	_	6	case	_	NE=QQQQQQQ
+6	инвентаризации	инвентаризация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	NE=QQQQQQQ
+7	.	.	PUNCT	_	_	6	punct	_
+8	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	клиентов	клиент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	в	в	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	зале	зал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+5	,	,	PUNCT	_	_	6	punct	_	NE=QQQQQQQ
+6	уборка	уборка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+7	.	.	PUNCT	_	_	1	punct	_
+1	Через	через	ADP	_	_	3	case	_
+2	6	6	NUM	_	_	3	nummod	_
+3	месяцев	месяц	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	obl	_
+4	переведена	перевести	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_
+5	в	в	ADP	_	_	6	case	_
+6	марочницы	марочница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obl	_
+7	,	,	PUNCT	_	_	8	punct	_
+8	контроль	контроль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	NE=QQQQQQQ
+9	за	за	ADP	_	_	10	case	_	NE=QQQQQQQ
+10	выполнением	выполнение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	8	nmod	_	NE=QQQQQQQ
+11	заказов	заказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	NE=QQQQQQQ
+12	кухни	кухня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	NE=QQQQQQQ
+13	и	и	CCONJ	_	_	14	cc	_	NE=QQQQQQQ
+14	буфета	буфета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	conj	_	NE=QQQQQQQ
+15	,	,	PUNCT	_	_	17	punct	_	NE=QQQQQQQ
+16	в	в	ADP	_	_	17	case	_	NE=QQQQQQQ
+17	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	NE=QQQQQQQ
+18	смены	смена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	NE=QQQQQQQ
+19	-	-	PUNCT	_	_	20	punct	_
+20	составление	составление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	parataxis	_	NE=QQQQQQQ
+21	отчета	отчет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	NE=QQQQQQQ
+22	.	.	PUNCT	_	_	4	punct	_
+23	.	.	PUNCT	_	_	4	punct	_
+
+
+1	Официант	Официант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	NE=q_one
+2	-	-	PUNCT	_	_	3	punct	_
+3	аниматор	аниматор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	NE=q_one
+4	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	0	root	_
+2	официанта	официант	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_
+3	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	на	на	ADP	_	_	3	case	_	NE=QQQQQQQ
+3	кассе	касса	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	NE=QQQQQQQ
+4	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	и	и	CCONJ	_	_	3	cc	_	NE=QQQQQQQ
+3	общение	общение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+4	с	с	ADP	_	_	5	case	_	NE=QQQQQQQ
+5	гостями	гость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	3	nmod	_	NE=QQQQQQQ
+6	.	.	PUNCT	_	_	5	punct	_
+7	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	банкетов	банкет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	,	,	PUNCT	_	_	4	punct	_	NE=QQQQQQQ
+4	столов	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	conj	_	NE=QQQQQQQ
+5	аля	аль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	NE=QQQQQQQ
+6	карт	карта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	NE=QQQQQQQ
+7	,	,	PUNCT	_	_	8	punct	_	NE=QQQQQQQ
+8	приготовление	приготовление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+9	кофе	кофе	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	NE=QQQQQQQ
+10	,	,	PUNCT	_	_	11	punct	_	NE=QQQQQQQ
+11	чая	чай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	conj	_	NE=QQQQQQQ
+12	,	,	PUNCT	_	_	13	punct	_	NE=QQQQQQQ
+13	коктейлей	коктейль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	conj	_	NE=QQQQQQQ
+14	,	,	PUNCT	_	_	15	punct	_	NE=QQQQQQQ
+15	отдача	отдача	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+16	алкогольных	алкогольный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	NE=QQQQQQQ
+17	и	и	CCONJ	_	_	18	cc	_	NE=QQQQQQQ
+18	ба	бый	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	conj	_	NE=QQQQQQQ
+19	напитков	напиток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	NE=QQQQQQQ
+20	.	.	PUNCT	_	_	19	punct	_
+21	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	,	,	PUNCT	_	_	4	punct	_	NE=QQQQQQQ
+4	подготовка	подготовка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+5	зала	зал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	NE=QQQQQQQ
+6	к	к	ADP	_	_	7	case	_	NE=QQQQQQQ
+7	работе	работа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	NE=QQQQQQQ
+8	,	,	PUNCT	_	_	9	punct	_	NE=QQQQQQQ
+9	обучение	обучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+10	сотрудников	сотрудник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	NE=QQQQQQQ
+11	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Должностные	должностной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	NE=QQQQQQQ
+2	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	NE=QQQQQQQ
+3	:	:	PUNCT	_	_	2	punct	_	NE=QQQQQQQ
+4	встреча	встреча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	34	nsubj	_	NE=QQQQQQQ
+5	посетителей	посетитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	NE=QQQQQQQ
+6	,	,	PUNCT	_	_	7	punct	_	NE=QQQQQQQ
+7	размещение	размещение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	conj	_	NE=QQQQQQQ
+8	их	они	DET	_	_	7	det	_	NE=QQQQQQQ
+9	по	по	ADP	_	_	10	case	_	NE=QQQQQQQ
+10	местам	место	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	7	nmod	_	NE=QQQQQQQ
+11	,	,	PUNCT	_	_	12	punct	_	NE=QQQQQQQ
+12	расчет	расчет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	NE=QQQQQQQ
+13	посетителей	посетитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	NE=QQQQQQQ
+14	,	,	PUNCT	_	_	15	punct	_	NE=QQQQQQQ
+15	обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	conj	_	NE=QQQQQQQ
+16	входящих	входить	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	17	amod	_	NE=QQQQQQQ
+17	клиентов	клиент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	NE=QQQQQQQ
+18	,	,	PUNCT	_	_	19	punct	_	NE=QQQQQQQ
+19	контроль	контроль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	conj	_	NE=QQQQQQQ
+20	за	за	ADP	_	_	22	case	_	NE=QQQQQQQ
+21	кухонными	кухонный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	22	amod	_	NE=QQQQQQQ
+22	работниками	работник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	19	nmod	_	NE=QQQQQQQ
+23	,	,	PUNCT	_	_	25	punct	_	NE=QQQQQQQ
+24	ежедневное	ежедневный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	NE=QQQQQQQ
+25	закрытие	закрытие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	conj	_	NE=QQQQQQQ
+26	кассы	касса	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	NE=QQQQQQQ
+27	,	,	PUNCT	_	_	4	punct	_	NE=QQQQQQQ
+28	сдача	сдача	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	34	advcl	_	NE=QQQQQQQ
+29	в	в	ADP	_	_	30	case	_	NE=QQQQQQQ
+30	бухгалтерию	бухгалтерия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	28	obl	_	NE=QQQQQQQ
+31	денежных	денежный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	32	amod	_	NE=QQQQQQQ
+32	средств	средства	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	30	nmod	_	NE=QQQQQQQ
+33	,	,	PUNCT	_	_	28	punct	_	NE=QQQQQQQ
+34	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	NE=QQQQQQQ
+35	в	в	ADP	_	_	36	case	_	NE=QQQQQQQ
+36	программе	программа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	34	nmod	_	NE=QQQQQQQ
+37	R-kiper	R-kiper	PROPN	_	Foreign=Yes	36	flat:foreign	_	NE=QQQQQQQ
+38	,	,	PUNCT	_	_	39	punct	_	NE=QQQQQQQ
+39	формирование	формирование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	34	conj	_	NE=QQQQQQQ
+40	заявок	заявка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	39	nmod	_	NE=QQQQQQQ
+41	в	в	ADP	_	_	42	case	_	NE=QQQQQQQ
+42	части	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	40	nmod	_	NE=QQQQQQQ
+43	оформления	оформление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	42	nmod	_	NE=QQQQQQQ
+44	зала	зал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	43	nmod	_	NE=QQQQQQQ
+45	,	,	PUNCT	_	_	46	punct	_	NE=QQQQQQQ
+46	участие	участие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	34	conj	_	NE=QQQQQQQ
+47	в	в	ADP	_	_	48	case	_	NE=QQQQQQQ
+48	приеме	прием	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	46	nmod	_	NE=QQQQQQQ
+49	поступающей	поступать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	50	amod	_	NE=QQQQQQQ
+50	продукции	продукция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	48	nmod	_	NE=QQQQQQQ
+51	,	,	PUNCT	_	_	52	punct	_	NE=QQQQQQQ
+52	участие	участие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	34	conj	_	NE=QQQQQQQ
+53	в	в	ADP	_	_	54	case	_	NE=QQQQQQQ
+54	закупке	закупка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	52	nmod	_	NE=QQQQQQQ
+55	и	и	CCONJ	_	_	56	cc	_
+56	др	др.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	34	conj	_
+57	.	.	PUNCT	_	_	56	punct	_
+58	.	.	PUNCT	_	_	34	punct	_
+
+
+1	Контроль	контроль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	NE=QQQQQQQ
+2	предварительной	предварительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	NE=QQQQQQQ
+3	подготовки	подготовка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	NE=QQQQQQQ
+4	зала	зал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	NE=QQQQQQQ
+5	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	NE=QQQQQQQ
+6	к	к	ADP	_	_	7	case	_	NE=QQQQQQQ
+7	работе	работа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	nmod	_	NE=QQQQQQQ
+8	.	.	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Контроль	контроль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	NE=QQQQQQQ
+2	и	и	CCONJ	_	_	3	cc	_	NE=QQQQQQQ
+3	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+4	с	с	ADP	_	_	5	case	_	NE=QQQQQQQ
+5	персоналом	персонал	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	nmod	_	NE=QQQQQQQ
+6	,	,	PUNCT	_	_	7	punct	_	NE=QQQQQQQ
+7	обучение	обучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+8	,	,	PUNCT	_	_	9	punct	_	NE=QQQQQQQ
+9	тренинги	тренинг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	conj	_	NE=QQQQQQQ
+10	,	,	PUNCT	_	_	11	punct	_	NE=QQQQQQQ
+11	аттестация	аттестация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+12	и	и	CCONJ	_	_	13	cc	_
+13	т.	так	ADV	_	Degree=Pos	1	conj	_
+14	д	далее	ADV	_	Degree=Pos	13	fixed	_
+15	.	.	PUNCT	_	_	1	punct	_
+1	Планирование	планирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	и	и	CCONJ	_	_	3	cc	_	NE=QQQQQQQ
+3	организация	организация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+4	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	NE=QQQQQQQ
+5	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	NE=QQQQQQQ
+6	.	.	PUNCT	_	_	1	punct	_
+1	Работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	с	с	ADP	_	_	3	case	_	NE=QQQQQQQ
+3	банкетами	банкет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+4	.	.	PUNCT	_	_	1	punct	_
+1	Работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_
+2	с	с	ADP	_	_	4	case	_
+3	соц	социальный	ADJ	_	Degree=Pos	4	amod	_
+4	сетями	сеть	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	1	nmod	_
+5	,	,	PUNCT	_	_	7	punct	_
+6	интернет	интерать	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_
+7	порталами	портал	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1	conj	_
+8	.	.	PUNCT	_	_	1	punct	_
+1	Ведение	ведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_
+2	документооборота	документооборота	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_
+3	.	.	PUNCT	_	_	1	punct	_
+1	Решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	конфликтных	конфликтный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	NE=QQQQQQQ
+3	ситуаций	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	NE=QQQQQQQ
+4	.	.	PUNCT	_	_	1	punct	_
+1	Рекомендации	рекомендация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_
+2	Климчинский	Климчинский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_
+3	Алексей	Алексей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_
+4	Владимирович	Владимирович	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_
+5	управляющий	управлять	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_
+6	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_
+7	Винегрет	винегрет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	NE=q_six
+8	ООО	ООО	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	NE=q_six
+9	Южная	Южный	PROPN	_	_	10	amod	_	NE=q_six
+10	веранда	веранда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=q_six
+11	.	.	PUNCT	_	_	10	punct	_
+12	.	.	PUNCT	_	_	10	punct	_
+
+
+1	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	,	,	PUNCT	_	_	4	punct	_	NE=QQQQQQQ
+4	чистота	чистота	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+5	зала	зал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	NE=QQQQQQQ
+6	.	.	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Знание	знание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	NE=QQQQQQQ
+2	концепции	концепция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+4	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	NE=QQQQQQQ
+5	.	.	PUNCT	_	_	3	punct	_
+1	Знание	знание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	специфики	специфика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	паназиатской	паназиатский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	NE=QQQQQQQ
+4	кухни	кухня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	NE=QQQQQQQ
+5	.	.	PUNCT	_	_	1	punct	_
+1	Своевременное	своевременный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_
+2	посещение	посещение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_
+3	тренингов	тренинг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_
+4	и	и	CCONJ	_	_	5	cc	_
+5	курсов	курс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	conj	_
+6	,	,	PUNCT	_	_	8	punct	_
+7	а	а	CCONJ	_	_	8	cc	_
+8	так	так	ADV	_	Degree=Pos	2	conj	_
+9	же	же	PART	_	_	8	advmod	_
+10	сдача	сдача	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_
+11	экзаменов	экзамен	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_
+12	и	и	CCONJ	_	_	13	cc	_
+13	аттестации	аттестация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	conj	_
+14	.	.	PUNCT	_	_	13	punct	_
+15	.	.	PUNCT	_	_	2	punct	_
+
+
+1	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	,	,	PUNCT	_	_	4	punct	_	NE=QQQQQQQ
+4	чистота	чистота	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+5	зала	зал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	NE=QQQQQQQ
+6	.	.	PUNCT	_	_	1	punct	_
+7	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	,	,	PUNCT	_	_	4	punct	_	NE=QQQQQQQ
+4	чистота	чистота	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+5	зала	зал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	NE=QQQQQQQ
+6	.	.	PUNCT	_	_	1	punct	_
+7	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Открытие	открытие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	,	,	PUNCT	_	_	3	punct	_	NE=QQQQQQQ
+3	закрытие	закрытие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+4	кассового	кассовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	NE=QQQQQQQ
+5	дня	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	NE=QQQQQQQ
+6	.	.	PUNCT	_	_	1	punct	_
+1	Контактная	контактный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_
+2	стойка	стойка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_
+3	.	.	PUNCT	_	_	2	punct	_
+1	Работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	с	с	ADP	_	_	3	case	_	NE=QQQQQQQ
+3	персоналом	персонал	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+4	.	.	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Контроль	контроль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	NE=QQQQQQQ
+2	соблюдения	соблюдение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	стандартов	стандарт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	NE=QQQQQQQ
+4	обслуживания	обслуживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	NE=QQQQQQQ
+5	.	.	PUNCT	_	_	1	punct	_
+1	Работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	с	с	ADP	_	_	3	case	_	NE=QQQQQQQ
+3	поставщиками	поставщик	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+4	.	.	PUNCT	_	_	1	punct	_
+1	Решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	текущих	текущий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	NE=QQQQQQQ
+3	административных	административный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	NE=QQQQQQQ
+4	и	и	CCONJ	_	_	5	cc	_	NE=QQQQQQQ
+5	хозяйственных	хозяйственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	conj	_	NE=QQQQQQQ
+6	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+7	.	.	PUNCT	_	_	1	punct	_
+8	.	.	PUNCT	_	_	1	punct	_
+
+
+1	-Обслуживание	-Обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	посетителей	посетитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+4	-Сервировка	-Сервировка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+5	стола	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	NE=QQQQQQQ
+6	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+7	-	-	PUNCT	_	_	8	punct	_
+8	Обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+9	чистоты	чистота	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	NE=QQQQQQQ
+10	и	и	CCONJ	_	_	11	cc	_	NE=QQQQQQQ
+11	порядка	порядок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	conj	_	NE=QQQQQQQ
+12	в	в	ADP	_	_	13	case	_	NE=QQQQQQQ
+13	кафе	кафе	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	nmod	_	NE=QQQQQQQ
+14	и	и	CCONJ	_	_	16	cc	_	NE=QQQQQQQ
+15	прилегающей	прилегавать	VERB	_	Aspect=Imp|Case=Loc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	16	amod	_	NE=QQQQQQQ
+16	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	conj	_	NE=QQQQQQQ
+17	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+18	-	-	PUNCT	_	_	19	punct	_
+19	Оформление	оформление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	parataxis	_	NE=QQQQQQQ
+20	зала	зал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	NE=QQQQQQQ
+21	соответственно	соответственно	ADV	_	Degree=Pos	22	advmod	_	NE=QQQQQQQ
+22	празднечным	празднечный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	25	amod	_	NE=QQQQQQQ
+23	и	и	CCONJ	_	_	24	cc	_	NE=QQQQQQQ
+24	текущим	текущий	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	22	conj	_	NE=QQQQQQQ
+25	событиям	событие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	19	iobj	_	NE=QQQQQQQ
+26	;	;	PUNCT	_	_	1	punct	_
+27	.	.	PUNCT	_	_	1	punct	_
+
+
+1	-	-	PUNCT	_	_	2	punct	_
+2	обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+3	посетителей	посетитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	NE=QQQQQQQ
+4	;	;	PUNCT	_	_	2	punct	_	NE=QQQQQQQ
+5	-	-	PUNCT	_	_	6	punct	_
+6	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	NE=QQQQQQQ
+7	на	на	ADP	_	_	8	case	_	NE=QQQQQQQ
+8	кухне	кухня	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	NE=QQQQQQQ
+9	;	;	PUNCT	_	_	2	punct	_	NE=QQQQQQQ
+10	-	-	PUNCT	_	_	11	punct	_
+11	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	conj	_	NE=QQQQQQQ
+12	чистоты	чистота	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	NE=QQQQQQQ
+13	и	и	CCONJ	_	_	14	cc	_	NE=QQQQQQQ
+14	порядка	порядок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	conj	_	NE=QQQQQQQ
+15	в	в	ADP	_	_	16	case	_	NE=QQQQQQQ
+16	зале	зал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	nmod	_	NE=QQQQQQQ
+17	;	;	PUNCT	_	_	2	punct	_	NE=QQQQQQQ
+18	-	-	PUNCT	_	_	19	punct	_
+19	проведение	проведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	conj	_	NE=QQQQQQQ
+20	детских	детский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	NE=QQQQQQQ
+21	днейрождении	днейрождение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	nmod	_	NE=QQQQQQQ
+22	;	;	PUNCT	_	_	21	punct	_	NE=QQQQQQQ
+23	-	-	PUNCT	_	_	24	punct	_
+24	обучение	обучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	conj	_	NE=QQQQQQQ
+25	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	NE=QQQQQQQ
+26	сотрудников	сотрудник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	NE=QQQQQQQ
+27	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	NE=QQQQQQQ
+28	;	;	PUNCT	_	_	2	punct	_
+29	.	.	PUNCT	_	_	2	punct	_
+
+
+1	-	-	PUNCT	_	_	12	punct	_
+2	-	-	PUNCT	_	_	12	punct	_
+3	Приготовление	приготовление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	NE=QQQQQQQ
+4	напитков	напиток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	NE=QQQQQQQ
+5	согласно	согласно	ADP	_	_	6	case	_	NE=QQQQQQQ
+6	стандартам	стандарт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	3	nmod	_	NE=QQQQQQQ
+7	-	-	PUNCT	_	_	8	punct	_	_
+8	Разработка	разработка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	appos	_	NE=QQQQQQQ
+9	коктейльной	коктейльный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	NE=QQQQQQQ
+10	карты	карта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	NE=QQQQQQQ
+11	-	-	PUNCT	_	_	3	punct	_	_
+12	Составление	составление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+13	заявки	заявка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	NE=QQQQQQQ
+14	на	на	ADP	_	_	15	case	_	NE=QQQQQQQ
+15	продукцию	продукция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	nmod	_	NE=QQQQQQQ
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	прием	прием	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	conj	_	NE=QQQQQQQ
+18	товара	товар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	NE=QQQQQQQ
+19	-	-	PUNCT	_	_	20	punct	_	_
+20	Организация	организация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	parataxis	_	NE=QQQQQQQ
+21	клубных	клубный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	NE=QQQQQQQ
+22	мероприятий	мероприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	20	nmod	_	NE=QQQQQQQ
+23	-	-	PUNCT	_	_	25	punct	_	_
+24	Представительская	Представительский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	NE=QQQQQQQ
+25	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	NE=QQQQQQQ
+26	,	,	PUNCT	_	_	27	punct	_	NE=QQQQQQQ
+27	презентация	презентация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	conj	_	NE=QQQQQQQ
+28	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	NE=QQQQQQQ
+29	клуба	клуб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	NE=QQQQQQQ
+30	в	в	ADP	_	_	32	case	_	NE=QQQQQQQ
+31	городских	городской	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	32	amod	_	NE=QQQQQQQ
+32	мероприятиях	мероприятие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	25	nmod	_	NE=QQQQQQQ
+33	.	.	PUNCT	_	_	12	punct	_
+
+
+1	Получила	получить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_
+2	огромный	огромный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_
+3	опыт	опыт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_
+4	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_
+5	с	с	ADP	_	_	7	case	_
+6	разными	разный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	amod	_
+7	людьми	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	4	nmod	_
+8	,	,	PUNCT	_	_	9	punct	_
+9	научилась	научиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_
+10	сглаживать	сглаживать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_
+11	конфликты	конфликт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obj	_
+12	,	,	PUNCT	_	_	13	punct	_
+13	работать	работать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	conj	_	NE=QQQQQQQ
+14	в	в	ADP	_	_	15	case	_	NE=QQQQQQQ
+15	команде	команда	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	NE=QQQQQQQ
+16	.	.	PUNCT	_	_	15	punct	_
+17	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	в	в	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	зале	зал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+5	,	,	PUNCT	_	_	6	punct	_	NE=QQQQQQQ
+6	приготовление	приготовление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+7	напитков	напиток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	NE=QQQQQQQ
+8	,	,	PUNCT	_	_	9	punct	_	NE=QQQQQQQ
+9	контроль	контроль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	NE=QQQQQQQ
+10	качества	качество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	NE=QQQQQQQ
+11	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	NE=QQQQQQQ
+12	,	,	PUNCT	_	_	13	punct	_	NE=QQQQQQQ
+13	прием	прием	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	conj	_	NE=QQQQQQQ
+14	звонков	звонок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	NE=QQQQQQQ
+15	,	,	PUNCT	_	_	16	punct	_	NE=QQQQQQQ
+16	расчет	расчет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	NE=QQQQQQQ
+17	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	NE=QQQQQQQ
+18	,	,	PUNCT	_	_	20	punct	_	NE=QQQQQQQ
+19	финансовая	финансовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	NE=QQQQQQQ
+20	отчетность	отчетность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+21	,	,	PUNCT	_	_	22	punct	_	NE=QQQQQQQ
+22	проведение	проведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+23	инвентаризаций	инвентаризация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	22	nmod	_	NE=QQQQQQQ
+24	,	,	PUNCT	_	_	25	punct	_	NE=QQQQQQQ
+25	прием	прием	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	conj	_	NE=QQQQQQQ
+26	банкетов	банкет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	NE=QQQQQQQ
+27	,	,	PUNCT	_	_	28	punct	_	NE=QQQQQQQ
+28	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+29	с	с	ADP	_	_	31	case	_	NE=QQQQQQQ
+30	кассовой	кассовый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	NE=QQQQQQQ
+31	книгой	книга	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	28	nmod	_	NE=QQQQQQQ
+32	,	,	PUNCT	_	_	33	punct	_
+33	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Встреча	встреча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	и	и	CCONJ	_	_	3	cc	_	NE=QQQQQQQ
+3	обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+4	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	NE=QQQQQQQ
+5	,	,	PUNCT	_	_	6	punct	_	NE=QQQQQQQ
+6	обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+7	банкетов	банкет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	NE=QQQQQQQ
+8	на	на	ADP	_	_	9	case	_	NE=QQQQQQQ
+9	точках	точка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	7	nmod	_	NE=QQQQQQQ
+10	сети	сеть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	NE=QQQQQQQ
+11	и	и	CCONJ	_	_	13	cc	_	NE=QQQQQQQ
+12	в	в	ADP	_	_	13	case	_	NE=QQQQQQQ
+13	казино	казино	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+14	.	.	PUNCT	_	_	13	punct	_
+15	.	.	PUNCT	_	_	1	punct	_
+
+
+1	выполнение	выполнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	должностных	должностной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	NE=QQQQQQQ
+3	обязанностей	обязанность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	NE=QQQQQQQ
+4	официантахостесс	официантахостесс	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	NE=QQQQQQQ
+5	,	,	PUNCT	_	_	6	punct	_	NE=QQQQQQQ
+6	встреча	встреча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+7	и	и	CCONJ	_	_	8	cc	_	NE=QQQQQQQ
+8	проводы	провод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	conj	_	NE=QQQQQQQ
+9	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	NE=QQQQQQQ
+10	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	NE=QQQQQQQ
+11	,	,	PUNCT	_	_	12	punct	_	NE=QQQQQQQ
+12	рассадка	рассадка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+13	посетителей	посетитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	NE=QQQQQQQ
+14	в	в	ADP	_	_	15	case	_	NE=QQQQQQQ
+15	зале	зал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	nmod	_	NE=QQQQQQQ
+16	,	,	PUNCT	_	_	17	punct	_	NE=QQQQQQQ
+17	обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+18	банкетов	банкет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	NE=QQQQQQQ
+19	,	,	PUNCT	_	_	20	punct	_	NE=QQQQQQQ
+20	кейтеринг	кейтеринг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	NE=QQQQQQQ
+21	,	,	PUNCT	_	_	22	punct	_	NE=QQQQQQQ
+22	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+23	с	с	ADP	_	_	25	case	_	NE=QQQQQQQ
+24	кассовым	кассовый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	NE=QQQQQQQ
+25	аппаратом	аппарат	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	22	nmod	_	NE=QQQQQQQ
+26	.	.	PUNCT	_	_	1	punct	_
+27	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Сервировка	Сервировка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	NE=QQQQQQQ
+2	стола	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	,	,	PUNCT	_	_	4	punct	_	NE=QQQQQQQ
+4	знание	знание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	NE=QQQQQQQ
+5	меню	меню	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+6	и	и	CCONJ	_	_	7	cc	_	NE=QQQQQQQ
+7	изучение	изучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	conj	_	NE=QQQQQQQ
+8	изменений	изменение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	NE=QQQQQQQ
+9	в	в	ADP	_	_	10	case	_	NE=QQQQQQQ
+10	меню	меню	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	nmod	_	NE=QQQQQQQ
+11	,	,	PUNCT	_	_	12	punct	_	NE=QQQQQQQ
+12	знание	знание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	conj	_	NE=QQQQQQQ
+13	основных	основной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	NE=QQQQQQQ
+14	и	и	CCONJ	_	_	15	cc	_	NE=QQQQQQQ
+15	сезонных	сезонный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	conj	_	NE=QQQQQQQ
+16	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	NE=QQQQQQQ
+17	и	и	CCONJ	_	_	18	cc	_	NE=QQQQQQQ
+18	напитков	напиток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	conj	_	NE=QQQQQQQ
+19	,	,	PUNCT	_	_	20	punct	_	NE=QQQQQQQ
+20	предлагаемых	предлагать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	18	acl	_	NE=QQQQQQQ
+21	гостям	гость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	20	iobj	_	NE=QQQQQQQ
+22	,	,	PUNCT	_	_	23	punct	_	NE=QQQQQQQ
+23	консультирование	консультирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	conj	_	NE=QQQQQQQ
+24	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	23	nmod	_	NE=QQQQQQQ
+25	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	NE=QQQQQQQ
+26	об	о	ADP	_	_	27	case	_	NE=QQQQQQQ
+27	особенностях	особенность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	25	nmod	_	NE=QQQQQQQ
+28	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	27	nmod	_	NE=QQQQQQQ
+29	и	и	CCONJ	_	_	30	cc	_	NE=QQQQQQQ
+30	напитков	напиток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	28	conj	_	NE=QQQQQQQ
+31	,	,	PUNCT	_	_	32	punct	_	NE=QQQQQQQ
+32	оказание	оказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	conj	_	NE=QQQQQQQ
+33	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	NE=QQQQQQQ
+34	при	при	ADP	_	_	35	case	_	NE=QQQQQQQ
+35	составлении	составление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	32	nmod	_	NE=QQQQQQQ
+36	заказа	заказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	35	nmod	_	NE=QQQQQQQ
+37	,	,	PUNCT	_	_	38	punct	_	NE=QQQQQQQ
+38	прием	прием	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	conj	_	NE=QQQQQQQ
+39	заказов	заказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	38	nmod	_	NE=QQQQQQQ
+40	от	от	ADP	_	_	41	case	_	NE=QQQQQQQ
+41	клиента	клиент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	38	nmod	_	NE=QQQQQQQ
+42	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	41	nmod	_	NE=QQQQQQQ
+43	,	,	PUNCT	_	_	44	punct	_	NE=QQQQQQQ
+44	подача	подача	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	NE=QQQQQQQ
+45	заказанных	заказать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	47	acl	_	NE=QQQQQQQ
+46	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	45	obl	_	NE=QQQQQQQ
+47	гостям	гость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	44	iobj	_	NE=QQQQQQQ
+48	,	,	PUNCT	_	_	49	punct	_	NE=QQQQQQQ
+49	предоставление	предоставление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	conj	_	NE=QQQQQQQ
+50	счета	счет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	49	nmod	_	NE=QQQQQQQ
+51	гостям	гость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	49	iobj	_	NE=QQQQQQQ
+52	,	,	PUNCT	_	_	53	punct	_	NE=QQQQQQQ
+53	оформление	оформление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	conj	_	NE=QQQQQQQ
+54	зала	зал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	53	nmod	_	NE=QQQQQQQ
+55	и	и	CCONJ	_	_	56	cc	_	NE=QQQQQQQ
+56	сервировка	сервировка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	NE=QQQQQQQ
+57	столов	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	56	nmod	_	NE=QQQQQQQ
+58	для	для	ADP	_	_	60	case	_	NE=QQQQQQQ
+59	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	60	amod	_	NE=QQQQQQQ
+60	мероприятий	мероприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	56	nmod	_	NE=QQQQQQQ
+61	.	.	PUNCT	_	_	60	punct	_
+62	.	.	PUNCT	_	_	5	punct	_
+
+
+1	В	в	ADP	_	_	3	case	_
+2	мои	мой	DET	_	Case=Acc|Number=Plur	3	det	_
+3	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obl	_
+4	входило	входить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_
+5	:	:	PUNCT	_	_	4	punct	_
+6	обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	parataxis	_	NE=QQQQQQQ
+7	посетителей	посетитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	NE=QQQQQQQ
+8	15	15	NUM	_	_	9	nummod	_
+9	столов	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	NE=QQQQQQQ
+10	,	,	PUNCT	_	_	11	punct	_	NE=QQQQQQQ
+11	прием	прием	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	conj	_	NE=QQQQQQQ
+12	и	и	CCONJ	_	_	13	cc	_	NE=QQQQQQQ
+13	разнос	разнос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	conj	_	NE=QQQQQQQ
+14	заказов	заказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	NE=QQQQQQQ
+15	,	,	PUNCT	_	_	20	punct	_	NE=QQQQQQQ
+16	а	а	CCONJ	_	_	20	cc	_	NE=QQQQQQQ
+17	так	так	ADV	_	Degree=Pos	20	parataxis	_	NE=QQQQQQQ
+18	же	же	PART	_	_	17	advmod	_	NE=QQQQQQQ
+19	,	,	PUNCT	_	_	20	punct	_	NE=QQQQQQQ
+20	частично	частично	ADV	_	Degree=Pos	6	conj	_	NE=QQQQQQQ
+21	,	,	PUNCT	_	_	23	punct	_	NE=QQQQQQQ
+22	их	их	DET	_	_	23	det	_	NE=QQQQQQQ
+23	приготовление	приготовление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	conj	_	NE=QQQQQQQ
+24	и	и	CCONJ	_	_	25	cc	_	NE=QQQQQQQ
+25	оформление	оформление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	conj	_	NE=QQQQQQQ
+26	.	.	PUNCT	_	_	4	punct	_
+1	Находясь	находиться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	7	advcl	_	NE=QQQQQQQ
+2	постоянно	постоянно	ADV	_	Degree=Pos	1	advmod	_	NE=QQQQQQQ
+3	в	в	ADP	_	_	5	case	_	NE=QQQQQQQ
+4	рабочем	рабочий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	NE=QQQQQQQ
+5	движении	движение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	obl	_	NE=QQQQQQQ
+6	,	,	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+7	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	NE=QQQQQQQ
+8	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	NE=QQQQQQQ
+9	соблюдать	соблюдать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	_	NE=QQQQQQQ
+10	чистоту	чистота	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	NE=QQQQQQQ
+11	на	на	ADP	_	_	12	case	_	NE=QQQQQQQ
+12	столах	стол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	obl	_	NE=QQQQQQQ
+13	и	и	CCONJ	_	_	16	cc	_	NE=QQQQQQQ
+14	на	на	ADP	_	_	16	case	_	NE=QQQQQQQ
+15	рабочем	рабочий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	NE=QQQQQQQ
+16	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	conj	_	NE=QQQQQQQ
+17	.	.	PUNCT	_	_	7	punct	_
+1	Благодаря	благодаря	ADP	_	_	3	case	_
+2	такой	такой	DET	_	Case=Dat|Gender=Fem|Number=Sing	3	det	_
+3	черте	черта	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	obl	_
+4	характера	характер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_
+5	как	как	SCONJ	_	_	6	mark	_
+6	коммуникабельность	коммуникабельность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	advcl	_	NE=QQQQQQQ
+7	легко	легко	ADV	_	Degree=Pos	8	advmod	_
+8	находил	находить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_
+9	общий	общий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_
+10	язык	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_
+11	не	не	PART	_	_	12	advmod	_
+12	только	только	PART	_	_	14	advmod	_
+13	с	с	ADP	_	_	14	case	_
+14	коллегами	коллега	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	10	nmod	_
+15	и	и	CCONJ	_	_	16	cc	_
+16	персоналом	персонал	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	conj	_
+17	в	в	ADP	_	_	18	case	_
+18	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	nmod	_
+19	,	,	PUNCT	_	_	23	punct	_
+20	но	но	CCONJ	_	_	23	cc	_
+21	и	и	PART	_	_	23	advmod	_
+22	с	с	ADP	_	_	23	case	_
+23	посетителями	посетитель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	14	conj	_
+24	.	.	PUNCT	_	_	8	punct	_
+1	Как	как	SCONJ	_	_	2	mark	_
+2	итог	итог	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_
+3	-	-	PUNCT	_	_	2	punct	_
+4	большое	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_
+5	количество	количество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_
+6	положительных	положительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_
+7	отзывов	отзыв	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_
+8	,	,	PUNCT	_	_	10	punct	_
+9	и	и	CCONJ	_	_	10	cc	_
+10	достижение	достижение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	conj	_
+11	персональных	персональный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_
+12	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_
+13	в	в	ADP	_	_	16	case	_
+14	достаточно	достаточно	ADV	_	Degree=Pos	15	obl	_
+15	короткие	короткий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	16	amod	_
+16	сроки	срок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	nmod	_
+17	.	.	PUNCT	_	_	16	punct	_
+18	.	.	PUNCT	_	_	2	punct	_
+
+
+1	Подготовка	подготовка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	зала	зал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+3	перед	перед	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	началом	начало	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	nmod	_	NE=QQQQQQQ
+5	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	NE=QQQQQQQ
+6	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Поддержание	поддержание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	высоких	высокий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	NE=QQQQQQQ
+3	стандартов	стандарт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+4	сервиса	сервис	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	NE=QQQQQQQ
+5	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Оформление	оформление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	NE=QQQQQQQ
+2	и	и	CCONJ	_	_	3	cc	_	NE=QQQQQQQ
+3	сервировка	сервировка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+4	столов	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	NE=QQQQQQQ
+5	соответственно	соответственно	ADV	_	Degree=Pos	6	obl	_	NE=QQQQQQQ
+6	праздничным	праздничный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	0	root	_	NE=QQQQQQQ
+7	событиям	событие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	6	iobj	_	NE=QQQQQQQ
+8	;	;	PUNCT	_	_	6	punct	_
+1	Знание	знание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	меню	меню	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	NE=QQQQQQQ
+3	и	и	CCONJ	_	_	5	cc	_	NE=QQQQQQQ
+4	винной	винный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	NE=QQQQQQQ
+5	карты	карта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	conj	_	NE=QQQQQQQ
+6	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	NE=QQQQQQQ
+7	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Помощь	помощь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	гостям	гость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	1	iobj	_	NE=QQQQQQQ
+3	в	в	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	выборе	выбор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	NE=QQQQQQQ
+5	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	NE=QQQQQQQ
+6	и	и	CCONJ	_	_	7	cc	_	NE=QQQQQQQ
+7	напитков	напиток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	conj	_	NE=QQQQQQQ
+8	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Консультирование	Консультирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	NE=QQQQQQQ
+4	о	о	ADP	_	_	5	case	_	NE=QQQQQQQ
+5	особенностях	особенность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	3	nmod	_	NE=QQQQQQQ
+6	и	и	CCONJ	_	_	7	cc	_	NE=QQQQQQQ
+7	новинках	новинка	NOUN	_	Animacy=Anim|Case=Loc|Gender=Fem|Number=Plur	5	conj	_	NE=QQQQQQQ
+8	в	в	ADP	_	_	9	case	_	NE=QQQQQQQ
+9	меню	меню	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	nmod	_	NE=QQQQQQQ
+10	при	при	ADP	_	_	11	case	_	NE=QQQQQQQ
+11	оформлении	оформление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	nmod	_	NE=QQQQQQQ
+12	заказа	заказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	NE=QQQQQQQ
+13	;	;	PUNCT	_	_	1	punct	_
+1	Ориентирование	ориентирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	гостей	гость	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	о	о	ADP	_	_	4	case	_	NE=QQQQQQQ
+4	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	NE=QQQQQQQ
+5	приготовления	приготовление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	NE=QQQQQQQ
+6	заказанных	заказать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	amod	_	NE=QQQQQQQ
+7	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	NE=QQQQQQQ
+8	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Контроль	контроль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	NE=QQQQQQQ
+2	за	за	ADP	_	_	4	case	_	NE=QQQQQQQ
+3	своевременным	своевременный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	NE=QQQQQQQ
+4	приготовлением	приготовление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	nmod	_	NE=QQQQQQQ
+5	и	и	CCONJ	_	_	7	cc	_	NE=QQQQQQQ
+6	товарным	товарный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	NE=QQQQQQQ
+7	видом	вид	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	conj	_	NE=QQQQQQQ
+8	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	NE=QQQQQQQ
+9	перед	перед	ADP	_	_	10	case	_	NE=QQQQQQQ
+10	подачей	подача	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	nmod	_	NE=QQQQQQQ
+11	на	на	ADP	_	_	12	case	_	NE=QQQQQQQ
+12	стол	стол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	nmod	_	NE=QQQQQQQ
+13	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Подача	подача	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	NE=QQQQQQQ
+3	и	и	CCONJ	_	_	4	cc	_	NE=QQQQQQQ
+4	напитков	напиток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	conj	_	NE=QQQQQQQ
+5	согласно	согласно	ADP	_	_	7	case	_	NE=QQQQQQQ
+6	установленным	установить	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	amod	_	NE=QQQQQQQ
+7	правилам	правило	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	1	nmod	_	NE=QQQQQQQ
+8	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	NE=QQQQQQQ
+9	;	;	PUNCT	_	_	1	punct	_	NE=QQQQQQQ
+1	Произведение	произведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	полного	полный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	NE=QQQQQQQ
+3	расчёта	расчёт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+4	.	.	PUNCT	_	_	3	punct	_
+5	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Организация	организация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	бесперебойной	бесперебойный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	NE=QQQQQQQ
+3	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	NE=QQQQQQQ
+4	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	NE=QQQQQQQ
+5	Управление	Управление	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	appos	_	NE=QQQQQQQ
+6	персоналом	персонал	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	nmod	_	NE=QQQQQQQ
+7	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	NE=QQQQQQQ
+8	Контроль	Контроль	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	appos	_	NE=QQQQQQQ
+9	качества	качество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	NE=QQQQQQQ
+10	выполнения	выполнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	NE=QQQQQQQ
+11	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	NE=QQQQQQQ
+12	Контроль	Контроль	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	appos	_	NE=QQQQQQQ
+13	кассовой	кассовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	NE=QQQQQQQ
+14	дисциплины	дисциплина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	NE=QQQQQQQ
+15	Контроль	Контроль	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	appos	_	NE=QQQQQQQ
+16	соблюдения	соблюдение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	NE=QQQQQQQ
+17	стандартов	стандарт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	NE=QQQQQQQ
+18	обслуживания	обслуживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	NE=QQQQQQQ
+19	Предотвращение	предотвращение	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	appos	_	NE=QQQQQQQ
+20	нестандартных	нестандартный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	NE=QQQQQQQ
+21	ситуацийсглаживание	ситуацийсглаживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	appos	_	NE=QQQQQQQ
+22	конфликтных	конфликтный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	NE=QQQQQQQ
+23	ситуаций	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	NE=QQQQQQQ
+24	с	с	ADP	_	_	25	case	_	NE=QQQQQQQ
+25	гостями	гость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	23	nmod	_	NE=QQQQQQQ
+26	Открытие	открытие	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	25	appos	_	NE=QQQQQQQ
+27	и	и	CCONJ	_	_	28	cc	_	NE=QQQQQQQ
+28	закрытие	закрытие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	26	conj	_	NE=QQQQQQQ
+29	смены	смена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	NE=QQQQQQQ
+30	Работа	работа	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	NE=QQQQQQQ
+31	в	в	ADP	_	_	32	case	_	NE=QQQQQQQ
+32	программе	программа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	21	nmod	_	NE=QQQQQQQ
+33	iiko	iiko	X	_	Foreign=Yes	32	flat:foreign	_	NE=QQQQQQQ
+34	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=QQQQQQQ
+2	а-	а-	PUNCT	_	_	3	punct	_	NE=QQQQQQQ
+3	ля	ль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+4	карт	карта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	NE=QQQQQQQ
+5	,	,	PUNCT	_	_	7	punct	_	NE=QQQQQQQ
+6	шведская	шведский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	NE=QQQQQQQ
+7	линия	линия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=QQQQQQQ
+8	.	.	PUNCT	_	_	1	punct	_
+1	Работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	NE=QQQQQQQ
+2	с	с	ADP	_	_	3	case	_	NE=QQQQQQQ
+3	кассой	касса	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	nmod	_	NE=QQQQQQQ
+4	.	.	PUNCT	_	_	3	punct	_
+5	.	.	PUNCT	_	_	1	punct	_
+
+
+1	Управление	управление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	персоналом	персонал	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	nmod	_	_
+3	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	во	во	ADP	_	_	6	case	_	_
+5	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	fixed	_	_
+6	смены	смена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+1	Ведение	ведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	отчетности	отчетность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+1	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	банкетов	банкет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	шведского	шведский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	завтрака	завтрак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	аля	аль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+8	-карт	-карта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	appos	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	групповые	групповой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	amod	_	_
+11	обедыужины	обедыужина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	конференций	конференция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	conj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+1	Подготовка	подготовка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	зала	зал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	к	к	ADP	_	_	4	case	_	_
+4	открытиюзакрытию	открытиюзакрытий	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1	nmod	_	_
+5	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+1	Кассовая	Кассовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	дисциплина	дисциплина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+
+1	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	банкетов	банкет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	шведского	шведский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	завтрака	завтрак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	аля	аль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+8	-карт	-карта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	appos	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	групповые	групповой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	amod	_	_
+11	обедыужины	обедыужина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	конференций	конференция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	conj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+1	Подготовка	подготовка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	зала	зал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	к	к	ADP	_	_	4	case	_	_
+4	открытиюзакрытию	открытиюзакрытий	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1	nmod	_	_
+5	ресторана	ресторан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+
+
+1	стандартные	стандартный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	2	amod	_	_
+2	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	0	root	_	_
+3	официантаорганизация	официантаорганизация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nmod	_	_
+4	персонала	персонал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	на	на	ADP	_	_	6	case	_	_
+6	смене	смена	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	обучение	обучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	conj	_	_
+9	стажеров	стажер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+1	Результаты	результат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	nsubj:pass	_	SpacesAfter=\s\s
+2	получены	получить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+3	навык	навык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj:pass	_	_
+4	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	режиме	режим	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	_
+7	аврал	аврал	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	успешная	успешный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	conj	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	команде	команда	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	nmod	_	_
+13	как	как	SCONJ	_	_	15	mark	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	роли	роль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	nmod	_	_
+16	лидера	лидер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	21	punct	_	_
+18	так	так	ADV	_	Degree=Pos	21	cc	_	_
+19	и	и	PART	_	_	18	fixed	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	роли	роль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	conj	_	_
+22	исполнителя	исполнитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	15	punct	_	_
+24	стрессоустойчивость	стрессоустойчивость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	навык	навык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	24	conj	_	_
+27	продажника	продажник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	навык	навык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	24	conj	_	_
+30	выхода	выход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	_
+31	из	из	ADP	_	_	33	case	_	_
+32	проблемной	проблемный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	33	amod	_	_
+33	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	nmod	_	_
+34	с	с	ADP	_	_	35	case	_	_
+35	улыбкой	улыбка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	30	nmod	_	_
+36	на	на	ADP	_	_	37	case	_	_
+37	лице	лицо	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	35	nmod	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+1	Так	так	ADV	_	Degree=Pos	0	root	_	_
+2	же	же	PART	_	_	1	advmod	_	_
+3	понимание	понимание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	_
+4	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	что	что	SCONJ	_	_	9	mark	_	_
+7	качественная	качественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+9	приносит	приносить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	_
+10	больше	больше	ADV	_	Degree=Cmp	11	nummod:gov	_	_
+11	денег	деньги	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+
+
+1	Работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	США	США	PROPN	_	Animacy=Inan|Case=Loc|Number=Plur	1	nmod	_	_
+4	по	по	ADP	_	_	5	case	_	_
+5	программе	программа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1	nmod	_	_
+6	обмена	обмен	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	мексиканском	мексиканский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	ресторане	ресторан	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	1	punct	_	_
+11	повышение	повышение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+12	уровня	уровень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	владения	владение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	английским	английский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	языком	язык	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	SpaceAfter=No
+17	.	.	PUNCT  	_	_	11	punct	_	SpaceAfter=No
+
+

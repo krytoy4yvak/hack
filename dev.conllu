@@ -1,0 +1,14 @@
+1	Обслуживание	обслуживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	NE=q7
+2	а-	а-	PUNCT	_	_	3	punct	_	NE=q7
+3	ля	ль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NE=q7
+4	карт	карта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	NE=q7
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	шведская	шведский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	линия	линия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+1	Работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	кассой	касса	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+
