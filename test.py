@@ -8,12 +8,12 @@ def input_one(input = None):
     lines = file.read()
     file.close()
     text = ' '.join(re.sub(r'[^a-zA-Zа-яА-Я ]', '', ' '.join(str(lines).lower().split())).split())
-    print(text)
-    model = joblib.load('models/validation/logreg_cv.joblib')
-    cv = joblib.load('models/validation/count_vec.joblib')
+    model = joblib.load('/home/hack/hack/models/validation/logreg_cv.joblib')
+    cv = joblib.load('/home/hack/hack/models/validation/count_vec.joblib')
     predict = model.predict(cv.transform([text]))
     return predict
 
 
+
 if __name__ == '__main__':
-    input_one(sys.argv)
+    print(int(input_one(sys.argv)[0]))
