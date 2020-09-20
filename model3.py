@@ -9,10 +9,8 @@ SEED=42
 BERT_MAX_LEN, BERT_EPOCHS, BERT_BATCH_SIZE = 512, 10, 8
 
 def model(input=None):
-  res_dev =  MODEL_FN.replace('_model', '.conllu')
-  res_test = MODEL_FN.replace('_model', '.conllu')
   tagger = NeTagger()
-  tagger.load(MODEL_FN)
+  tagger.load('/home/hack/watermodels/' + MODEL_FN)
   junky.clear_tqdm()
   file = next(tagger.predict(input[1], clone_ds=True))
   j_son = {'q1': [],
